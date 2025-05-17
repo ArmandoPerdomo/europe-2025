@@ -1,0 +1,18 @@
+remote_theme: pmarsceill/just-the-docs
+title: "Europa 2025"
+description: "Itinerario detallado de viaje por Europa"
+search_enabled: true
+color_scheme: "light"
+aux_links:
+  "Ver en GitHub":
+    - "https://github.com/ArmandoPerdomo/europe-2025"
+
+# Configuración de navegación
+nav_sort: case_sensitive
+# Permite que los emojis se muestren correctamente
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  
+# Personalización de colores
+color_scheme: light
