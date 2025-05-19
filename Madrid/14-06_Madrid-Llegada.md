@@ -1,3 +1,10 @@
+---
+title: 14/06 - Llegada a Madrid
+parent: Madrid
+nav_order: 1
+permalink: /madrid/llegada/
+---
+
 # Madrid - Llegada y Primer Contacto
 
 ## Resumen del Día
