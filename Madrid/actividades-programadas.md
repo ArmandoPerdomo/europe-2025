@@ -9,28 +9,52 @@
 
 ## Actividades Confirmadas
 
-### Sábado 14/06
-- Llegada a Madrid
-- Descanso en casa del primo
-- Posible paseo por la zona cercana a Miguel Solas 4
+### Sábado 14/06 [✅ PLANIFICADO]
+- Llegada a Madrid (10:00)
+- Traslado a casa del primo (Miguel Solas 4)
+- Almuerzo familiar en casa
+- Descanso para combatir el jetlag
+- Paseo por el Parque de Berlín (18:00-19:30)
+- Cena en Restaurante La Bientirada (20:00-22:00)
 
-### Domingo 15/06
-- 09:30: Visita al Estadio Santiago Bernabéu (entradas ya compradas)
-- Almuerzo en 100 Montaditos
-- 13:45: Encuentro en Puerta del Sol para Free Tour Los Austrias (duración 2.5h)
-- Misa en San Ginés
-- Churros con chocolate (posiblemente en Chocolatería San Ginés)
+_Ver plan completo en: [14-06_Madrid-Llegada.md](./14-06_Madrid-Llegada.md)_
 
-### Lunes 16/06
-- Trabajo en edificio Telefónica (Wayra Gran Vía) hasta 16:00-18:00
-- Paseo por El Retiro
-- Visita al Palacio de Cristal
-- Visita a la Puerta de Alcalá
+### Domingo 15/06 [✅ PLANIFICADO]
+- **09:30-11:30: Visita al Estadio Santiago Bernabéu**:
+  * **Tour**: Classic Tour Bernabéu
+  * **Fecha/Hora**: 15/06/2025, 09:30
+  * **Entradas**: €35.00 por adulto
+  * **Ubicación**: Av. Concha Espina 1, 28036 Madrid
+  * **Cómo llegar**: Metro Santiago Bernabéu L10, Bus 14, 27, 40, 43, 120, 126, 147 y 150
+  * **Referencia**: R: 79276315 T: 239359992
+- 12:00-13:30: Almuerzo en 100 Montaditos Plaza España
+- **13:45-16:15: Free Tour Madrid Milenario - Madrid de los Austrias**:
+  * **Hora**: 14:00
+  * **Idioma**: Español
+  * **Participantes**: 4 adultos
+  * **Operador**: Xtreme Tours Madrid
+  * **Reserva confirmada**
+- 17:00-18:00: Misa en Iglesia de San Ginés
+- 18:30-19:30: Churros con chocolate en Chocolatería San Ginés
 
-### Martes 17/06
-- Trabajo en edificio Telefónica (Wayra Gran Vía) hasta 16:00-18:00
-- Paseo por Gran Vía
-- Visita a Plaza de España
+_Ver plan completo en: [15-06_Madrid-Bernabeu-Freetour.md](./15-06_Madrid-Bernabeu-Freetour.md)_
+
+### Lunes 16/06 [✅ PLANIFICADO]
+- 08:30-16:30: Jornada laboral en Edificio Telefónica (Wayra Gran Vía)
+- 17:00-19:00: Paseo por El Retiro
+- 18:00-19:00: Visita al Palacio de Cristal
+- 19:15-19:45: Visita a la Puerta de Alcalá
+- 20:00-22:00: Cena en Casa Macareno (opcional)
+
+_Ver plan completo en: [16-06_Madrid-Trabajo-Retiro.md](./16-06_Madrid-Trabajo-Retiro.md)_
+
+### Martes 17/06 [✅ PLANIFICADO]
+- 08:30-16:30: Jornada laboral en Edificio Telefónica (Wayra Gran Vía)
+- 17:00-18:00: Paseo por Gran Vía
+- 18:00-19:30: Visita a Plaza de España
+- 20:00-22:00: Cena en La Barraca (opcional)
+
+_Ver plan completo en: [17-06_Madrid-Trabajo-PlazaEspana.md](./17-06_Madrid-Trabajo-PlazaEspana.md)_
 
 ### Miércoles 18/06 [✅ PLANIFICADO]
 - Trabajo en edificio Telefónica (Wayra Gran Vía) hasta 16:00-18:00 (08:30-16:30)
@@ -40,27 +64,45 @@
 
 _Ver plan completo en: [18-06_Madrid-Trabajo-Prado.md](./18-06_Madrid-Trabajo-Prado.md)_
 
-### Jueves 19/06
-- Trabajo remoto (desde casa del primo)
-- Visita al Mercado de San Miguel
-- Espectáculo de flamenco en Torres Bermejas
-- Cena por la zona
+### Jueves 19/06 [✅ PLANIFICADO]
+- 08:30-16:30: Trabajo remoto desde casa del primo
+- 17:00-19:00: Visita al Mercado de San Miguel (picoteo)
+- 20:30-22:30: Espectáculo de flamenco en Torres Bermejas
+- 22:30-23:30: Cena en Torres Bermejas o restaurantes cercanos
 
-### Viernes 20/06
-- Día completo de vacaciones
-- Visita al Hotel Riú Plaza España (rooftop)
-- Almuerzo en Mercado de la Reina
-- Comida en Kunfu Noodles
-- Museo de las Ilusiones
-- Actividad adicional por la tarde (por definir)
+_Ver plan completo en: [19-06_Madrid-TrabajoRemoto-Flamenco.md](./19-06_Madrid-TrabajoRemoto-Flamenco.md)_
+
+### Viernes 20/06 [✅ PLANIFICADO]
+- 10:30-12:00: Visita al Hotel Riú Plaza España (rooftop)
+- 13:00-14:30: Almuerzo en Mercado de la Reina
+- 15:00-16:30: Comida en Kunfu Noodles
+- 17:00-19:00: Visita al Museo de las Ilusiones
+- 19:30-22:00: Cena en Lateral Plaza Santa Ana (opcional)
+
+_Ver plan completo en: [20-06_Madrid-Vacaciones-Ilusiones.md](./20-06_Madrid-Vacaciones-Ilusiones.md)_
+
+### Sábado 21/06 (Día de salida a Barcelona)
+- Preparación temprano para la salida
+- Traslado a la estación de Atocha
+- **Tren Madrid-Barcelona**:
+  * Tren: Renfe AVLO | 06301
+  * Salida: 06:27 AM (Madrid-Puerta de Atocha-Almudena Grandes)
+  * Llegada: 09:25 AM (Barcelona Sants)
+  * Duración: 2h 58min
+
+_Ver continuación del viaje en: [../Barcelona/actividades-programadas.md](../Barcelona/actividades-programadas.md)_
 
 ## Restaurantes/Cafés Confirmados
-- 100 Montaditos (15/06, almuerzo)
-- Chocolatería San Ginés (15/06, merienda)
-- Mercado de San Miguel (19/06, picoteo)
-- Torres Bermejas (19/06, cena con espectáculo)
-- Mercado de la Reina (20/06, almuerzo)
-- Kunfu Noodles (20/06, comida)
+- La Bientirada (14/06, cena) - Cocina italiana e internacional
+- 100 Montaditos (15/06, almuerzo) - Montaditos variados y cerveza
+- Chocolatería San Ginés (15/06, merienda) - Chocolate con churros tradicional
+- Casa Macareno (16/06, cena opcional) - Cocina española tradicional
+- La Barraca (17/06, cena opcional) - Paella tradicional valenciana
+- Mercado de San Miguel (19/06, picoteo) - Variedad de puestos de tapas
+- Torres Bermejas (19/06, cena con espectáculo) - Cocina española tradicional
+- Mercado de la Reina (20/06, almuerzo) - Tapas tradicionales españolas
+- Kunfu Noodles (20/06, comida) - Cocina asiática, ramen y dim sum
+- Lateral Plaza Santa Ana (20/06, cena opcional) - Tapas modernas y pinchos
 
 ## Requisitos Especiales
 - Incluir al menos una experiencia con churros y chocolate (programado para el 15/06)
@@ -73,3 +115,9 @@ _Ver plan completo en: [18-06_Madrid-Trabajo-Prado.md](./18-06_Madrid-Trabajo-Pr
 - Días 16-18/06: Trabajo en Wayra Gran Vía, actividades solo por las tardes
 - Día 19/06: Trabajo remoto desde casa del primo, más flexibilidad para actividades
 - Día 20/06: Día completo libre para turismo
+- **Tren a Barcelona**:
+  * **Tren**: Renfe AVLO | 06301
+  * **Fecha**: Sábado, 21 de junio 2025
+  * **Ruta**: Madrid-Puerta de Atocha - Barcelona Sants
+  * **Horario**: Salida 06:27 - Llegada 09:25
+- El tren del 21/06 sale muy temprano, considerar preparativos la noche anterior
