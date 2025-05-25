@@ -5,6 +5,25 @@
 - **Clima esperado**: Templado, posibilidad de lluvias, 15-22°C
 - **Alojamiento**: Regreso al apartamento en Bruselas por la noche
 
+## Rutas y Traslados
+* **Bruselas → Brujas**: [Tren directo]
+  * **Estación de salida**: Brussels-Midi/Zuid
+  * **Estación de llegada**: Brugge Station
+  * **Duración**: 1 hora aproximadamente (91.9 km)
+  * **Frecuencia**: Trenes cada hora (incluso en domingo)
+  * **Primera salida mañana**: 08:07 (llegada 09:10)
+  * **Costo**: 16.20€ por trayecto (Standard Ticket)
+  * **Enlace**: [📍 Ruta Bruselas → Brujas](https://www.google.com/maps/dir/Brussels+Midi+Train+Station/Bruges+Train+Station/@50.9181859,3.2271805,10z/)
+  * **Sitio web SNCB**: [Horarios y boletos 🌐](https://www.belgiantrain.be/en)
+
+* **Brujas → Bruselas**: [Tren directo]
+  * **Estación de salida**: Brugge Station
+  * **Estación de llegada**: Brussels-Midi/Zuid
+  * **Duración**: 1 hora aproximadamente
+  * **Últimas salidas noche**: 21:23 (llegada 22:27) y 22:23 (llegada 23:27)
+  * **Costo**: 16.20€ por trayecto
+  * **Enlace**: [📍 Ruta Brujas → Bruselas](https://www.google.com/maps/dir/Bruges+Train+Station/Brussels+Midi+Train+Station/@50.9181859,3.2271805,10z/)
+
 ## Itinerario
 
 ### Mañana (07:00-11:30)
@@ -12,23 +31,30 @@
   * **Horario**: 07:00-07:45
   * **Opciones**: Desayuno en el alojamiento o cafetería cercana a la estación
   * **Presupuesto**: 5-10€ por persona
+  * **Sugerencia**: Le Pain Quotidien (apertura 07:00 los domingos)
+  * **Enlace**: [📍 Panaderías cerca del alojamiento](https://www.google.com/maps/search/bakery+near+Rue+Gustave+Defnet+39,+Saint-Gilles,+Bruxelles+1060,+Belgium)
 
 * **Traslado a la estación de tren**:
-  * **Horario**: 07:45-08:15
+  * **Horario**: 07:45-08:00
   * **Estación**: Brussels-Midi/Zuid
-  * **Opciones**: Transporte público o a pie
-  * **Enlaces**: [Ubicación Maps 📍](https://www.google.com/maps/dir/?api=1&destination=Brussels+Midi+Station&travelmode=transit)
+  * **Ruta**: 
+    * 🚶 Caminata hasta parada Bethlehem (4 min, 277 m)
+    * 🚊 Tranvía hacia Marius Renard (3 min, 715 m)
+  * **Tiempo total**: 7 minutos
+  * **Costo**: 2.10€ por persona
+  * **Enlace**: [📍 Ruta Alojamiento → Brussels-Midi](https://www.google.com/maps/dir/?api=1&origin=Rue+Gustave+Defnet+39,+Saint-Gilles,+Bruxelles+1060,+Belgium&destination=Brussels+Midi+Station&travelmode=transit)
 
-* **Tren a Brujas**:
-  * **Horario**: 08:30-09:30
-  * **Duración**: Aproximadamente 1 hora
-  * **Coste**: 15-20€ por persona/trayecto
-  * **Frecuencia**: Trenes cada hora
-  * **Enlaces**: [Web SNCB 🌐](https://www.belgiantrain.be)
+* **Tren a Brujas**: [VERIFICADO]
+  * **Horario**: 08:07-09:10
+  * **Duración**: 1 hora 3 minutos
+  * **Tren**: IC hacia Ostende/Oostende (pasa por Brujas/Brugge)
+  * **Coste**: 16.20€ por persona/trayecto
+  * **Compra de billetes**: En taquillas, máquinas automáticas o app SNCB
   * **Tips**:
-    * Comprar billetes con antelación para mejores precios
-    * Confirmar el andén de salida en la estación
-    * No es necesario reservar asiento para trenes nacionales en Bélgica
+    * Llegar 15 minutos antes de la salida del tren
+    * Los trenes IC (InterCity) son los más rápidos
+    * La ruta Bruselas-Brujas es muy frecuente incluso en domingo
+    * Se puede pagar con tarjeta en las máquinas automáticas
 
 * **Llegada y primera exploración de Brujas**:
   * **Horario**: 09:30-10:00
@@ -161,20 +187,25 @@
     * La ciudad adquiere un encanto especial con la iluminación nocturna
     * Excelentes oportunidades para fotografía
 
-* **Regreso a Bruselas**:
-  * **Horario**: 21:30-23:00
-  * **Tren**: Último tren alrededor de las 21:45 (verificar horarios)
-  * **Coste**: 15-20€ por persona
+* **Regreso a Bruselas**: [VERIFICADO]
+  * **Horario**: 21:23-22:27
+  * **Tren**: IC hacia Welkenraedt (vía Brussels-Midi)
+  * **Coste**: 16.20€ por persona
+  * **Alternativa**: Último tren 22:23 (llegada 23:27) si quieres más tiempo
+  * **Enlace**: [📍 Estación de Brujas](https://www.google.com/maps/place/Bruges+Station/@51.1972062,3.2160349,17z/)
   * **Tips**: 
-    * Confirmar el horario del último tren con antelación
-    * Llegar a la estación con tiempo suficiente
-    * Alternativa: considerar alojamiento en Brujas si se prefiere una experiencia más relajada
+    * Llegar a la estación 15 minutos antes de la salida
+    * El trayecto de 21:23 es ideal para llegar a una hora razonable
+    * Hay tranvías disponibles desde Brussels-Midi hasta el alojamiento incluso a esa hora
 
 ## Consejos prácticos para el día
 - Llevar calzado muy cómodo, Brujas es una ciudad para recorrer a pie
 - Llevar impermeable o paraguas (clima cambiante)
 - La ciudad puede estar muy concurrida en temporada alta
 - Tener en cuenta que los domingos algunas tiendas pueden estar cerradas
-- Confirmar los horarios de trenes de ida y vuelta
+- Los horarios de trenes han sido verificados para domingo:
+  - Ida: 08:07 desde Brussels-Midi (llegada 09:10 a Brujas)
+  - Vuelta: 21:23 desde Brujas (llegada 22:27 a Brussels-Midi)
 - Llevar una botella de agua reutilizable
 - La mayoría de los establecimientos en Bélgica aceptan tarjetas de crédito, pero es bueno llevar algo de efectivo
+- Considerar comprar un Weekend Ticket de SNCB (50% descuento para viajes en fin de semana)
