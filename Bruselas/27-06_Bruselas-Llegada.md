@@ -38,17 +38,46 @@
 ## Itinerario
 
 ### Mañana (05:30-11:50)
-* **Salida desde Barcelona**:
-  * **Horario**: 05:30-09:35 (preparación y traslado al aeropuerto)
-  * **Detalles**: Traslado en Aerobús A2 desde Plaza Catalunya al Aeropuerto El Prat
-  * **Vuelo**: Barcelona (BCN) - Bruselas Charleroi (CRL)
-  * **Horario del vuelo**: 09:35-11:50
-  * **Duración**: 2h 15min
-  * **Aerolínea**: Ryanair
-  * **Número de vuelo**: Por confirmar
+* **Preparación para salida**:
+  * **Horario**: 05:30-06:30
+  * **Actividades**: Despertar, preparativos finales, revisar documentación
   * **Tips**: 
-    * Llegar al aeropuerto con 2 horas de antelación
+    * Verificar que no quede nada en la habitación
+    * Asegurarse de tener pasaporte, billete, efectivo, tarjetas
+
+* **Check-out del alojamiento en Barcelona**:
+  * **Horario**: 06:30-07:00
+  * **Dirección**: Carrer de Verdaguer i Callís 10, Ciutat Vella, 08003 Barcelona
+  * **Procedimiento**: Entregar llaves en recepción o según instrucciones
+
+* **Traslado al Aeropuerto El Prat (Terminal 2)**:
+  * **Horario**: 07:00-07:50
+  * **Ruta**: 
+    * 🚶 Caminata hasta Plaza Catalunya - Parada Aerobús (9 min, 631 m)
+    * 🚌 Aerobús A2 hacia Terminal 2 (35 min, 14.9 km)
+  * **Costo**: 6.75€ por persona
+  * **Frecuencia**: Cada 10-20 minutos, desde las 05:00
+  * **Tiempo total**: 46 minutos (sin contar imprevistos)
+  * **Enlace**: [📍 Ruta Alojamiento → Aeropuerto BCN T2](https://www.google.com/maps/dir/?api=1&origin=Carrer+de+Verdaguer+i+Call%C3%ADs,+10,+Ciutat+Vella,+08003+Barcelona&destination=Aeropuerto+de+Barcelona+El+Prat+T2&travelmode=transit)
+
+* **Check-in y embarque en Barcelona**:
+  * **Horario**: 07:50-09:35
+  * **Terminal**: T2 (Terminal utilizada por Ryanair)
+  * **Tiempo recomendado**: Llegar 2 horas antes del vuelo
+  * **Procedimiento**: Check-in online previo (imprimir tarjeta de embarque o tener en móvil)
+  * **Tips**: 
+    * Ryanair es estricto con las medidas y peso del equipaje
+    * Control de seguridad puede demorar, especialmente en temporada alta
+
+* **Vuelo Barcelona → Bruselas Charleroi**: [CONFIRMADO]
+  * **Aerolínea**: Ryanair
+  * **Vuelo**: BCN-CRL
+  * **Horario**: 09:35-11:50
+  * **Duración**: 2h 15min
+  * **Asientos**: Por confirmar
+  * **Tips**: 
     * El aeropuerto de Charleroi está a 60 km del centro de Bruselas
+    * Comprar snacks antes de abordar (precios elevados a bordo)
 
 ### Mediodía (11:50-15:30)
 * **Traslado desde Charleroi al centro de Bruselas**:
