@@ -8,6 +8,33 @@
   * **Check-in**: A partir de las 17:00
   * **Anfitrión**: Michael
 
+## Rutas y Traslados
+* **Barcelona → Bruselas Charleroi**: [Vuelo confirmado]
+  * **Aerolínea**: Ryanair
+  * **Vuelo**: BCN-CRL
+  * **Fecha y hora**: 27/06/2025, 09:35-11:50
+  * **Duración**: 2h 15min
+  * **Salida**: Terminal 2, Aeropuerto El Prat (Barcelona)
+  * **Llegada**: Aeropuerto de Charleroi Bruselas Sur (60 km del centro)
+  * **Enlace**: [📍 Ruta Barcelona T2 → Charleroi](https://www.google.com/maps/dir/Barcelona+El+Prat+Airport+Terminal+2/Brussels+South+Charleroi+Airport,+Rue+des+Fr%C3%A8res+Wright+8,+6041+Charleroi,+Belgium/@44.5374811,-1.6348122,6z/)
+
+* **Charleroi → Centro de Bruselas**: [Ruta en shuttle bus]
+  * **Opción recomendada**: Brussels City Shuttle (Bus directo a Brussels-Midi)
+  * **Duración**: 55 minutos aproximadamente (según Google Maps)
+  * **Frecuencia**: Cada 30 minutos
+  * **Costo**: 17€ por persona (ida)
+  * **Web**: [Brussels City Shuttle](https://www.brussels-city-shuttle.com)
+  * **Enlace**: [📍 Ruta Charleroi → Brussels-Midi](https://www.google.com/maps/dir/?api=1&origin=Brussels+South+Charleroi+Airport&destination=Brussels+Midi+Station&travelmode=transit)
+
+* **Brussels-Midi → Alojamiento**: [Ruta en transporte público]
+  * 🚶 Caminata a la parada Suede (1 min, 122 m)
+  * 🚊 Tranvía hacia Montgomery (3 min, 661 m)
+  * 🚶 Caminata hasta Rue Gustave Defnet 39 (5 min, 341 m)
+  * **Tiempo total**: 9 minutos
+  * **Costo**: 2.10€ por persona
+  * **Alternativa**: A pie desde Brussels-Midi (15 min, 1.2 km) o taxi (5-7€)
+  * **Enlace**: [📍 Ruta Midi → Alojamiento](https://www.google.com/maps/dir/?api=1&origin=Brussels+Midi+Station&destination=Rue+Gustave+Defnet+39,+Saint-Gilles,+Bruxelles+1060,+Belgium&travelmode=transit)
+
 ## Itinerario
 
 ### Mañana (05:30-11:50)

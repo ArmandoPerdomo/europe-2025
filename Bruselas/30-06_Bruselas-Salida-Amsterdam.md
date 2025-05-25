@@ -10,6 +10,26 @@
   * **Llegada**: 15:55 (Amsterdam Zuid)
   * **Duración**: 2h 06min
 
+## Rutas y Traslados
+* **Alojamiento → Brussels-Midi**: [Ruta en transporte público]
+  * 🚶 Caminata hasta parada Bethlehem (4 min, 277 m)
+  * 🚊 Tranvía hacia Marius Renard (3 min, 715 m)
+  * 🚶 Caminata hasta la estación (1 min, 113 m)
+  * **Tiempo total**: 6 minutos
+  * **Costo**: 2.10€ por persona
+  * **Alternativa**: A pie desde el alojamiento (15 min, 1.2 km) o taxi (5-7€)
+  * **Recomendación**: Llegar a la estación al menos 30 minutos antes de la salida del tren
+  * **Enlace**: [📍 Ruta Alojamiento → Brussels-Midi](https://www.google.com/maps/dir/?api=1&origin=Rue+Gustave+Defnet+39,+Saint-Gilles,+Bruxelles+1060,+Belgium&destination=Brussels+Midi+Station&travelmode=transit)
+
+* **Brussels-Midi → Ámsterdam**: [Tren confirmado]
+  * **Tren**: Eurocity Direct 9551
+  * **Fecha y hora**: 30/06/2025, 13:49-15:55
+  * **Duración**: 2h 06min
+  * **Andén**: Por confirmar (verificar en las pantallas de la estación)
+  * **Asientos**: Por confirmar
+  * **Recomendación**: Validar los billetes en la estación si es necesario
+  * **Enlace**: [📍 Ruta Brussels-Midi → Amsterdam Zuid](https://www.google.com/maps/dir/Brussels-South+train+station,+Avenue+Fonsny,+Brussels,+Belgium/Amsterdam+Zuid,+Amsterdam,+Netherlands/@51.3831196,3.9486099,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47c3c45efb8b7dad:0x8b3b7b4a3dd66d50!2m2!1d4.3359525!2d50.8361756!1m5!1m1!1s0x47c60a0c44b6e165:0x5d6e4f2d2bc0445a!2m2!1d4.8724902!2d52.3384392!3e3)
+
 ## Itinerario
 
 ### Mañana (08:00-11:00)
