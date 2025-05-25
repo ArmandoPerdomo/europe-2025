@@ -1,8 +1,7 @@
 ---
-title: 14/06 - Llegada a Madrid
+title: 14-06 - Madrid Llegada
 parent: Madrid
 nav_order: 1
-permalink: /madrid/llegada/
 ---
 
 # Madrid - Llegada y Primer Contacto
@@ -75,3 +74,7 @@ permalink: /madrid/llegada/
   * Exposición a la luz natural durante el paseo de la tarde
   * Dormir temprano para ajustar el ritmo circadiano
   * Hidratarse bien durante todo el día
+
+
+
+

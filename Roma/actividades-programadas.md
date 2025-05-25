@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Roma
+nav_order: 100
+---
+
 # Actividades Programadas - Roma
 
 ## Información General
@@ -85,3 +91,7 @@ _Ver continuación del viaje en: [../Portugal/actividades-programadas.md](../Por
 - Planificar tiempo suficiente para llegar al aeropuerto (recomendado 3 horas antes)
 - Después de llegar a Madrid, se continuará el viaje hacia Portugal (23/07 - 03/08)
 - Prever hidratación adecuada y protección solar por altas temperaturas
+
+
+
+

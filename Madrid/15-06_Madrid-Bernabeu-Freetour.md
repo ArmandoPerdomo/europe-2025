@@ -1,3 +1,9 @@
+---
+title: 15-06 - Madrid Bernabeu Freetour
+parent: Madrid
+nav_order: 2
+---
+
 # Madrid - Bernabéu y Free Tour Los Austrias
 
 ## Resumen del Día
@@ -91,3 +97,7 @@
 * **Vestimenta**: Ropa cómoda y zapatos adecuados para caminar. Algo formal para la misa
 * **Clima**: Junio en Madrid puede ser caluroso (25-30°C), llevar agua y protección solar
 * **Fotos**: Permitidas sin flash en la Iglesia de San Ginés y en casi todo el tour
+
+
+
+

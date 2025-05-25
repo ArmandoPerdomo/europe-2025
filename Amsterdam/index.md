@@ -1,8 +1,9 @@
 ---
-title: Ámsterdam
+title: Amsterdam
 has_children: true
-nav_order: 6
+nav_order: 4
 permalink: /amsterdam/
+has_toc: true
 ---
 
 # Ámsterdam
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Ámsterdam.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

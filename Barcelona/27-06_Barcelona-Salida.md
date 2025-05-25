@@ -1,3 +1,9 @@
+---
+title: 27-06 - Barcelona Salida
+parent: Barcelona
+nav_order: 7
+---
+
 # Barcelona - Salida hacia Bruselas
 
 ## Resumen del Día
@@ -59,3 +65,8 @@
   * Seguro de viaje
 * Recordar que Bruselas Charleroi es un aeropuerto secundario ubicado a unos 60 km de Bruselas
 * Preparar euros para los gastos iniciales en Bruselas
+
+
+
+
+

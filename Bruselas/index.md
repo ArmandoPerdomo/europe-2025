@@ -3,6 +3,7 @@ title: Bruselas
 has_children: true
 nav_order: 3
 permalink: /bruselas/
+has_toc: true
 ---
 
 # Bruselas
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Bruselas.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

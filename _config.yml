@@ -1,3 +1,4 @@
+# Jekyll configuration
 remote_theme: pmarsceill/just-the-docs
 title: "Europa 2025"
 description: "Itinerario detallado de viaje por Europa"
@@ -9,10 +10,18 @@ aux_links:
 
 # Configuración de navegación
 nav_sort: case_sensitive
+
+# Configuración para colapsar/expandir menús
+collapse_inactive_chapters: true
+collapse_by_default: true
+
 # Permite que los emojis se muestren correctamente
 kramdown:
   syntax_highlighter_opts:
     disable: true
-  
+
 # Personalización de colores
 color_scheme: light
+
+# Ordenación de ciudades en el menú principal
+nav_external_links_new_tab: true

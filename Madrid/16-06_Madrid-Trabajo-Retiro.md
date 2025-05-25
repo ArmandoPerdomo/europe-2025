@@ -1,3 +1,9 @@
+---
+title: 16-06 - Madrid Trabajo Retiro
+parent: Madrid
+nav_order: 3
+---
+
 # Madrid - Día de Trabajo y Paseo por El Retiro
 
 ## Resumen del Día
@@ -94,3 +100,7 @@
   * Llevar calzado cómodo para caminar por El Retiro
   * Recomendable llevar botella de agua rellenable
   * Protección solar para el paseo en el parque
+
+
+
+

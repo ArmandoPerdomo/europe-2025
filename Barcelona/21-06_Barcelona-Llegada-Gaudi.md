@@ -1,3 +1,9 @@
+---
+title: 21-06 - Barcelona Llegada Gaudi
+parent: Barcelona
+nav_order: 1
+---
+
 # Barcelona - Llegada y Visita a Obras de Gaudí
 
 ## Resumen del Día
@@ -96,3 +102,8 @@
   * Protector solar
   * Cámara fotográfica
   * Tarjetas de transporte (T-Casual)
+
+
+
+
+

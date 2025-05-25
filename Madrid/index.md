@@ -1,8 +1,9 @@
 ---
 title: Madrid
 has_children: true
-nav_order: 5
+nav_order: 1
 permalink: /madrid/
+has_toc: true
 ---
 
 # Madrid
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Madrid.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

@@ -1,3 +1,9 @@
+---
+title: 22-06 - Barcelona Playa Girona
+parent: Barcelona
+nav_order: 2
+---
+
 # Costa Brava - Playa y Excursión a Girona
 
 ## Resumen del Día
@@ -110,3 +116,8 @@
   * Botella de agua
   * Cámara
   * Algo de efectivo para pequeñas compras en Girona
+
+
+
+
+

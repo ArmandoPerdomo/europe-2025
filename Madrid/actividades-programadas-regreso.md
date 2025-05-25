@@ -1,3 +1,9 @@
+---
+title: actividades programadas regreso
+parent: Madrid
+nav_order: 100
+---
+
 # Actividades Programadas - Regreso a Madrid
 
 ## Información General
@@ -37,3 +43,7 @@
 ## Notas Adicionales
 - Última parada del viaje, posible cansancio acumulado
 - Priorizar actividades relajadas
+
+
+
+

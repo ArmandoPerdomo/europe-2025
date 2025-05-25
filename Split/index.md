@@ -1,8 +1,9 @@
 ---
 title: Split
 has_children: true
-nav_order: 8
+nav_order: 6
 permalink: /split/
+has_toc: true
 ---
 
 # Split
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Split.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

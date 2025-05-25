@@ -3,6 +3,7 @@ title: Barcelona
 has_children: true
 nav_order: 2
 permalink: /barcelona/
+has_toc: true
 ---
 
 # Barcelona
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Barcelona.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

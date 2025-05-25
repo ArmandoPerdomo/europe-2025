@@ -1,3 +1,9 @@
+---
+title: 24-06 - Barcelona BarrioGotico Born
+parent: Barcelona
+nav_order: 4
+---
+
 # Barcelona - Barrio Gótico y El Born
 
 ## Resumen del Día
@@ -156,3 +162,8 @@
   * Cámara (el Barrio Gótico ofrece muchos rincones fotogénicos)
   * Botella de agua
   * Mapa o aplicación móvil del casco antiguo (fácil desorientarse)
+
+
+
+
+

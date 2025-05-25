@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Barcelona
+nav_order: 100
+---
+
 # Actividades Programadas - Barcelona y Costa Brava
 
 ## Información General
@@ -115,3 +121,7 @@ _Ver plan completo en: [27-06_Barcelona-Salida.md](./27-06_Barcelona-Salida.md)_
 - El vuelo del 27/06 es temprano, necesario despertar a las 05:30
 - El día 26 es de trabajo remoto, actividades solo por la tarde/noche
 - Todos los días tienen itinerarios detallados con horarios, costos y enlaces
+
+
+
+

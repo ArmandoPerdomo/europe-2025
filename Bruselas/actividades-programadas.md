@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Bruselas
+nav_order: 100
+---
+
 # Actividades Programadas - Bruselas y Brujas
 
 ## Información General
@@ -114,3 +120,7 @@ _Ver plan completo en: [30-06_Bruselas-Salida-Amsterdam.md](./30-06_Bruselas-Sal
 - Llevar calzado cómodo para los paseos por Brujas y Bruselas
 - No olvidar paraguas/impermeable (alta probabilidad de lluvias)
 - Tener en cuenta que el aeropuerto de Charleroi está a 60 km del centro de Bruselas
+
+
+
+

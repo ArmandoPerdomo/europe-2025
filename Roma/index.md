@@ -1,8 +1,9 @@
 ---
 title: Roma
 has_children: true
-nav_order: 9
+nav_order: 7
 permalink: /roma/
+has_toc: true
 ---
 
 # Roma
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en Roma.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

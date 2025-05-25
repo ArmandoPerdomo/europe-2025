@@ -1,3 +1,9 @@
+---
+title: 18-06 - Madrid Trabajo Prado
+parent: Madrid
+nav_order: 5
+---
+
 # Madrid - Día de Trabajo y Museo del Prado
 
 ## Resumen del Día
@@ -83,3 +89,7 @@
   * El Prado es muy extenso; mejor planificar qué salas visitar
   * El Barrio de las Letras (donde está La Tapería) es una zona histórica donde vivieron Cervantes, Lope de Vega y Quevedo
   * Verificar disponibilidad de entradas gratuitas al museo con antelación
+
+
+
+

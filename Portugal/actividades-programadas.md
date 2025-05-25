@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Portugal
+nav_order: 100
+---
+
 # Actividades Programadas - Portugal
 
 ## Información General
@@ -45,3 +51,8 @@
   * **Ruta**: Madrid - Caracas
   * **Horario**: Salida 13:00 - Llegada 16:30
 - Los detalles específicos del itinerario de Portugal serán añadidos cuando estén disponibles
+
+
+
+
+

@@ -1,3 +1,9 @@
+---
+title: 26-06 - Barcelona Trabajo Gracia
+parent: Barcelona
+nav_order: 6
+---
+
 # Barcelona - Trabajo Remoto y Barrio de Gràcia
 
 ## Resumen del Día
@@ -111,3 +117,8 @@
   * Botella de agua
   * Cámara para fotos de las encantadoras plazas de Gràcia
   * Reserva para la Cervecería Catalana
+
+
+
+
+

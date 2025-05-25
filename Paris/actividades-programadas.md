@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Paris
+nav_order: 100
+---
+
 # Actividades Programadas - París
 
 ## Información General
@@ -61,3 +67,7 @@
   * **Horario**: Salida 17:30 - Llegada 19:30
   * **Facturación de equipaje**: Apertura 15:30 - Cierre 16:50
 - Llegar al aeropuerto Orly con suficiente antelación (mínimo 2 horas antes)
+
+
+
+

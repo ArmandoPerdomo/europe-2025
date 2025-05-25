@@ -1,3 +1,9 @@
+---
+title: 19-06 - Madrid TrabajoRemoto Flamenco
+parent: Madrid
+nav_order: 6
+---
+
 # Madrid - Trabajo Remoto y Espectáculo de Flamenco
 
 ## Resumen del Día
@@ -77,3 +83,7 @@
   * El espectáculo es una experiencia cultural auténtica, no orientada exclusivamente a turistas
   * La zona del Mercado de San Miguel es muy concurrida, vigilar pertenencias
   * Tener en cuenta que el regreso será de noche
+
+
+
+

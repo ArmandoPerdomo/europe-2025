@@ -1,3 +1,9 @@
+---
+title: 20-06 - Madrid Vacaciones Ilusiones
+parent: Madrid
+nav_order: 7
+---
+
 # Madrid - Día de Vacaciones y Museo de las Ilusiones
 
 ## Resumen del Día
@@ -100,3 +106,7 @@
   * Día intenso con varias comidas, considerar porciones pequeñas en cada lugar
   * El Museo de las Ilusiones es interactivo y divertido, ideal para último día
   * Reservar con antelación la terraza del Hotel Riú y el Museo de las Ilusiones
+
+
+
+

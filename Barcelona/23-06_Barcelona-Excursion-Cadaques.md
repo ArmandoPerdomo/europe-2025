@@ -1,3 +1,9 @@
+---
+title: 23-06 - Barcelona Excursion Cadaques
+parent: Barcelona
+nav_order: 3
+---
+
 # Costa Brava - Excursión a Cadaqués
 
 ## Resumen del Día
@@ -100,3 +106,8 @@
   * Botella de agua
   * Cámara (Cadaqués ofrece paisajes muy fotogénicos)
   * Algo de efectivo (algunos establecimientos pequeños no aceptan tarjeta)
+
+
+
+
+

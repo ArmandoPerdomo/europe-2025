@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Amsterdam
+nav_order: 100
+---
+
 # Actividades Programadas - Ámsterdam
 
 ## Información General
@@ -53,3 +59,7 @@
   * **Recomendación**: Llegar a la estación a las 15:50 (20 minutos antes)
 - El día 3/07 combina trabajo remoto por la mañana y viaje a París por la tarde, tiempo muy limitado para actividades adicionales
 - Preferencia por exploración en bicicleta cuando sea posible
+
+
+
+

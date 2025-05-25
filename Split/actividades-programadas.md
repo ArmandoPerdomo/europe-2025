@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Split
+nav_order: 100
+---
+
 # Actividades Programadas - Split
 
 ## Información General
@@ -70,3 +76,7 @@
   * **Horario**: Salida 16:25 - Llegada 17:30
 - Considerar tiempo suficiente para llegar al aeropuerto (recomendado 2-3 horas antes)
 - Prever hidratación adecuada y protección solar por altas temperaturas
+
+
+
+

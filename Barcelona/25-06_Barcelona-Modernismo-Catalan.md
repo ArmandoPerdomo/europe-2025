@@ -1,3 +1,9 @@
+---
+title: 25-06 - Barcelona Modernismo Catalan
+parent: Barcelona
+nav_order: 5
+---
+
 # Barcelona - Modernismo Catalán y Vida Urbana
 
 ## Resumen del Día
@@ -161,3 +167,8 @@
   * Protección solar
   * Botella de agua
   * Bañador y toalla (opcional)
+
+
+
+
+

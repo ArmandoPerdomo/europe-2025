@@ -1,8 +1,9 @@
 ---
-title: París
+title: Paris
 has_children: true
-nav_order: 7
+nav_order: 5
 permalink: /paris/
+has_toc: true
 ---
 
 # París
@@ -15,3 +16,4 @@ Itinerario detallado para la estancia en París.
 {% for page in sorted_pages %}
 * [{{ page.name | replace: ".md", "" | replace: "_", " " | replace: "-", " " }}]({{ page.url | relative_url }})
 {% endfor %}
+

@@ -1,3 +1,9 @@
+---
+title: 27-06 - Bruselas Llegada
+parent: Bruselas
+nav_order: 1
+---
+
 # 27/06 (Viernes) - Llegada a Bruselas
 
 ## Información General
@@ -166,3 +172,8 @@
 - Tener a mano euros en efectivo, aunque la mayoría de establecimientos aceptan tarjetas
 - Guardar el número de teléfono del anfitrión del Airbnb
 - No olvidar el adaptador de enchufe si fuera necesario (en Bélgica se usa el tipo E/F, igual que en España)
+
+
+
+
+

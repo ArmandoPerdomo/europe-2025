@@ -1,3 +1,9 @@
+---
+title: 28-06 - Bruselas Centro
+parent: Bruselas
+nav_order: 2
+---
+
 # 28/06 (Sábado) - Recorrido por Bruselas
 
 ## Información General
@@ -219,3 +225,8 @@
 - Tener en cuenta que la mayoría de los museos cierran alrededor de las 17:00-18:00
 - Consumir cerveza con moderación, algunas cervezas belgas tienen alta graduación alcohólica
 - Llevar efectivo para pequeños establecimientos y propinas
+
+
+
+
+

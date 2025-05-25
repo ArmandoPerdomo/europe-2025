@@ -1,3 +1,9 @@
+---
+title: 17-06 - Madrid Trabajo PlazaEspana
+parent: Madrid
+nav_order: 4
+---
+
 # Madrid - Día de Trabajo y Paseo por Plaza de España
 
 ## Resumen del Día
@@ -92,3 +98,7 @@
   * Gran Vía es una de las principales arterias comerciales, buena oportunidad para compras
   * Plaza de España cuenta con acceso WiFi gratuito municipal
   * Si hay cansancio, hay bancos y zonas de descanso en la plaza renovada
+
+
+
+

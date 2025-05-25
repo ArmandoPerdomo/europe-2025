@@ -1,3 +1,9 @@
+---
+title: actividades programadas
+parent: Madrid
+nav_order: 100
+---
+
 # Actividades Programadas - Madrid
 
 ## Información General
@@ -121,3 +127,7 @@ _Ver continuación del viaje en: [../Barcelona/actividades-programadas.md](../Ba
   * **Ruta**: Madrid-Puerta de Atocha - Barcelona Sants
   * **Horario**: Salida 06:27 - Llegada 09:25
 - El tren del 21/06 sale muy temprano, considerar preparativos la noche anterior
+
+
+
+

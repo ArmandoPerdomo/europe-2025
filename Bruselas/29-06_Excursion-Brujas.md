@@ -1,3 +1,9 @@
+---
+title: 29-06 - Excursion Brujas
+parent: Bruselas
+nav_order: 3
+---
+
 # 29/06 (Domingo) - Excursión a Brujas
 
 ## Información General
@@ -209,3 +215,8 @@
 - Llevar una botella de agua reutilizable
 - La mayoría de los establecimientos en Bélgica aceptan tarjetas de crédito, pero es bueno llevar algo de efectivo
 - Considerar comprar un Weekend Ticket de SNCB (50% descuento para viajes en fin de semana)
+
+
+
+
+

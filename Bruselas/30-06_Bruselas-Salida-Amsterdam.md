@@ -1,3 +1,9 @@
+---
+title: 30-06 - Bruselas Salida Amsterdam
+parent: Bruselas
+nav_order: 4
+---
+
 # 30/06 (Lunes) - Salida hacia Ámsterdam
 
 ## Información General
@@ -134,3 +140,8 @@
 - Llevar ropa adecuada según el pronóstico del tiempo en Ámsterdam
 - Cambiar la moneda si es necesario antes de salir (aunque en Ámsterdam también se usa el euro)
 - Tener a mano los datos de contacto y dirección del alojamiento en Ámsterdam
+
+
+
+
+
