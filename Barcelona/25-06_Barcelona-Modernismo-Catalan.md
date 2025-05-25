@@ -6,39 +6,50 @@
 * **Actividades principales**: Obras maestras del Modernismo Catalán, paseo por La Rambla, visita a La Barceloneta
 
 ## Rutas y Traslados
-* **Alojamiento → Casa Batlló**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Plaza+Catalunya+8+Barcelona&destination=Casa+Batllo+Barcelona&travelmode=walking)
-  * 🚶 A pie: 10 minutos (750 metros por Passeig de Gràcia)
+* **Alojamiento → Casa Batlló**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Carrer+de+Verdaguer+i+Call%C3%ADs,+10,+Ciutat+Vella,+08003+Barcelona&destination=Casa+Batllo+Barcelona&travelmode=walking)
+  * 🚶 A pie: 19 minutos (1.3 km)
+  * Ruta: Carrer de Verdaguer i Callís → Via Laietana → Carrer de Pau Claris → Carrer del Consell de Cent → Passeig de Gràcia
   * Recomendación: Salir temprano para evitar colas
 
 * **Casa Batlló → La Pedrera**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Casa+Batllo&destination=La+Pedrera+Barcelona&travelmode=walking)
-  * 🚶 A pie: 5 minutos (400 metros por Passeig de Gràcia)
-  * Recomendación: Paseo agradable por la elegante avenida
+  * 🚶 A pie: 7 minutos (484 metros por Passeig de Gràcia)
+  * Ruta: Seguir por Passeig de Gràcia hacia el norte
+  * Recomendación: Paseo agradable por la elegante avenida, observando otros edificios modernistas
 
 * **La Pedrera → Palau de la Música**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=La+Pedrera+Barcelona&destination=Palau+de+la+Musica+Catalana&travelmode=walking)
-  * 🚶 A pie: 20 minutos (1.5 km)
+  * 🚶 A pie: 21 minutos (1.6 km)
+  * Ruta: Carrer de Provença → Carrer de Pau Claris → Vía Laietana → Carrer de Sant Pere Més Alt
   * Alternativa: 🚍 Bus V15 (10 min, 2.40€)
-  * Recomendación: El paseo permite ver otros edificios modernistas en el camino
+  * Recomendación: El paseo permite ver el Eixample y otros edificios modernistas en el camino
 
 * **Palau de la Música → La Rambla**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Palau+de+la+Musica+Catalana&destination=La+Rambla+Barcelona&travelmode=walking)
-  * 🚶 A pie: 5 minutos (400 metros)
+  * 🚶 A pie: 10 minutos (709 metros)
+  * Ruta: Carrer de Sant Pere Més Alt → Vía Laietana → Carrer Comtal → Av. Portal de l'Àngel → Plaça Catalunya
 
 * **La Rambla → Mercado de la Boquería**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=La+Rambla+Barcelona&destination=Mercat+de+la+Boqueria&travelmode=walking)
-  * 🚶 A pie: 5 minutos (300 metros por La Rambla)
+  * 🚶 A pie: 6 minutos (457 metros por La Rambla)
+  * Ruta: Bajar por La Rambla en dirección sur hasta llegar al mercado (ubicado a mano derecha)
 
 * **Mercado de la Boquería → Palau Güell**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Mercat+de+la+Boqueria&destination=Palau+Guell+Barcelona&travelmode=walking)
-  * 🚶 A pie: 7 minutos (550 metros)
+  * 🚶 A pie: 6 minutos (427 metros)
+  * Ruta: Seguir por La Rambla en dirección sur y girar a la derecha en Carrer Nou de la Rambla
 
 * **Palau Güell → Estatua de Colón**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Palau+Guell+Barcelona&destination=Mirador+de+Colom&travelmode=walking)
-  * 🚶 A pie: 5 minutos (400 metros)
+  * 🚶 A pie: 7 minutos (549 metros)
+  * Ruta: Carrer Nou de la Rambla → Rambla dels Caputxins → Rambla de Santa Mònica
 
 * **Estatua de Colón → Playa de la Barceloneta**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Mirador+de+Colom&destination=Playa+de+la+Barceloneta&travelmode=walking)
-  * 🚶 A pie: 15 minutos (1.2 km)
+  * 🚶 A pie: 24 minutos (1.7 km)
+  * Ruta: Bordeando el puerto por Moll de Bosch i Alsina → Moll del Dipòsit → Carrer de Pepe Rubianes
   * Alternativa: 🚍 Bus D20 (7 min, 2.40€)
-  * Recomendación: El paseo por el Port Vell es muy agradable
+  * Recomendación: El paseo por el Port Vell es muy agradable, con vistas al mar
 
-* **Regreso al alojamiento**: [Ruta en metro](https://www.google.com/maps/dir/?api=1&origin=Playa+de+la+Barceloneta&destination=Plaza+Catalunya+Barcelona&travelmode=transit)
-  * 🚇 Metro L4 (amarilla): Barceloneta → Urquinaona + 5 min a pie (2.40€, frecuencia cada 4 min)
-  * Alternativa: 🚍 Bus D20 (15 min, 2.40€)
+* **Regreso al alojamiento**: [Ruta en bus](https://www.google.com/maps/dir/?api=1&origin=Playa+de+la+Barceloneta&destination=Carrer+de+Verdaguer+i+Call%C3%ADs,+10,+Ciutat+Vella,+08003+Barcelona&travelmode=transit)
+  * 🚶 Caminata hasta parada Pg Marítim - Pepe Rubianes (1 min, 317 m)
+  * 🚍 Bus hacia Pl. Reina Maria Cristina (24 min, 3.4 km)
+  * 🚶 Caminata hasta el alojamiento (8 min, 600 m)
+  * Tiempo total: 33 minutos
+  * Alternativa: 🚇 Metro L4 (amarilla): Barceloneta → Urquinaona + 7 min a pie (2.40€)
   * Recomendación: El metro es más rápido si están cansados
 
 ## Itinerario Detallado

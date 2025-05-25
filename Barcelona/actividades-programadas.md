@@ -4,12 +4,14 @@
 - **Fechas**: 21-27 junio 2025
 - **Alojamientos**: 
   * **Primera estancia (21-24 junio)**: 
-    * Casa en Cabrils (a 30 minutos de Barcelona)
-    * **Dirección**: [Ver ubicación](https://maps.app.goo.gl/ZkyrnvrBv3GWAE3PA)
+    * Casa en Llagostera, Girona
+    * **Dirección**: Carrer Sant Feliu, 28, 17240 Llagostera, Girona, España
+    * **Ubicación**: [Ver en mapa](https://maps.app.goo.gl/ZkyrnvrBv3GWAE3PA)
     * **Estancia**: Check-in 21/06/2025 - Check-out 24/06/2025
   * **Segunda estancia (24-27 junio)**:
-    * Alojamiento en el centro de Barcelona (Plaza Catalunya)
-    * **Dirección**: [Ver ubicación](https://maps.app.goo.gl/uGgMjk9sLqzLuwUn8)
+    * Alojamiento en el centro de Barcelona (Ciutat Vella)
+    * **Dirección**: Carrer de Verdaguer i Callís, 10, Ciutat Vella, 08003 Barcelona, España
+    * **Ubicación**: [Ver en mapa](https://maps.app.goo.gl/uGgMjk9sLqzLuwUn8)
     * **Estancia**: Check-in 24/06/2025 (tarde) - Check-out 27/06/2025
 - **Clima esperado**: Cálido, posibilidad de temperaturas altas, 22-32°C
 
@@ -104,7 +106,7 @@ _Ver plan completo en: [26-06_Barcelona-Trabajo-Gracia.md](./26-06_Barcelona-Tra
 - Vuelo a Bruselas Charleroi (09:35-11:50)
 - Llegada y traslado al centro de Bruselas (11:50-14:30)
 
-_Ver plan completo en: [27-06_Barcelona-Salida-Bruselas.md](./27-06_Barcelona-Salida-Bruselas.md)_
+_Ver plan completo en: [27-06_Barcelona-Salida.md](./27-06_Barcelona-Salida.md)_
 
 ## Notas Adicionales
 - Los primeros días (21-24) estaremos con una amiga local que nos llevará a conocer lugares en la Costa Brava

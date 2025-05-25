@@ -6,25 +6,34 @@
 * **Actividades principales**: Trabajo remoto durante el día, exploración del barrio de Gràcia por la tarde/noche
 
 ## Rutas y Traslados
-* **Alojamiento → Barrio de Gràcia**: [Ruta en metro](https://www.google.com/maps/dir/?api=1&origin=Plaza+Catalunya+Barcelona&destination=Plaza+del+Sol+Gracia+Barcelona&travelmode=transit)
-  * 🚇 Metro L3 (verde): Catalunya → Fontana (10 min, 2.40€, frecuencia cada 3-4 min)
-  * 🚶 A pie desde Fontana: 3 minutos hasta Plaza del Sol
-  * Alternativa: 🚍 Bus V17 (15 min, 2.40€)
-  * Recomendación: El metro es rápido y eficiente
+* **Alojamiento → Barrio de Gràcia**: [Ruta en metro](https://www.google.com/maps/dir/?api=1&origin=Carrer+de+Verdaguer+i+Call%C3%ADs,+10,+Ciutat+Vella,+08003+Barcelona&destination=Plaza+del+Sol+Gracia+Barcelona&travelmode=transit)
+  * 🚶 Caminata hasta metro Catalunya (13 min, 854 m)
+  * 🚇 Metro L3 (verde) hacia Trinitat Nova: Catalunya → Fontana (5 min, 2.3 km)
+  * 🚶 Caminata hasta Plaza del Sol (8 min, 552 m)
+  * Tiempo total: 26 minutos
+  * Alternativa: 🚍 Bus V17 desde Plaza Catalunya (15-20 min, 2.40€)
+  * Recomendación: El metro es rápido y eficiente, pero hay que considerar la caminata inicial hasta la estación
 
 * **Recorrido por las plazas de Gràcia**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Plaza+del+Sol+Gracia+Barcelona&destination=Plaza+de+la+Vila+de+Gracia&travelmode=walking)
-  * 🚶 A pie: Recorrido de aproximadamente 1.5 km entre las principales plazas
-  * Recomendación: Paseo tranquilo entre las plazas emblemáticas del barrio
+  * 🚶 A pie: Recorrido completo entre varias plazas (aproximadamente 400-500 m entre cada plaza)
+  * Plazas principales a visitar:
+    * Plaza del Sol → Plaza de la Virreina (5 min a pie)
+    * Plaza de la Virreina → Plaza de la Revolución (4 min a pie)
+    * Plaza de la Revolución → Plaza de la Vila de Gràcia (4 min a pie)
+    * Plaza de la Vila de Gràcia → Plaza del Diamante (6 min a pie)
+  * Recomendación: Tomar tiempo para disfrutar del ambiente en cada plaza
 
 * **Gràcia → Cervecería Catalana**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Plaza+de+la+Vila+de+Gracia&destination=Cerveceria+Catalana+Barcelona&travelmode=walking)
-  * 🚶 A pie: 20 minutos (1.6 km)
+  * 🚶 A pie: 21 minutos (1.4 km)
+  * Ruta: Plaza de la Vila de Madrid → Carrer de la Canuda → La Rambla → Plaza Catalunya → Rambla de Catalunya → Carrer de Mallorca
   * Alternativa: 🚇 Metro L3 (verde): Fontana → Passeig de Gràcia + 8 min a pie (2.40€)
-  * Recomendación: Si no están cansados, el paseo por Passeig de Gràcia es agradable
+  * Recomendación: El paseo por Rambla de Catalunya es muy agradable y permite ver tiendas y comercios locales
 
-* **Regreso al alojamiento**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Cerveceria+Catalana+Barcelona&destination=Plaza+Catalunya+Barcelona&travelmode=walking)
-  * 🚶 A pie: 10 minutos (750 metros)
-  * Alternativa: 🚍 Bus V15 (5 min, 2.40€)
-  * Recomendación: A esa hora es agradable pasear por el centro
+* **Regreso al alojamiento**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Cerveceria+Catalana+Barcelona&destination=Carrer+de+Verdaguer+i+Call%C3%ADs,+10,+Ciutat+Vella,+08003+Barcelona&travelmode=walking)
+  * 🚶 A pie: 20 minutos (1.6 km)
+  * Ruta: Carrer de Mallorca → Rambla de Catalunya → Plaza Catalunya → Via Laietana → Carrer de Sant Pere Més Alt → Carrer de Verdaguer i Callís
+  * Alternativa: 🚍 Bus V15 hasta Urquinaona + 5 min a pie (2.40€)
+  * Recomendación: El paseo nocturno por el centro es agradable si no están muy cansados
 
 ## Itinerario Detallado
 ### Mañana/Mediodía (08:30-16:00)

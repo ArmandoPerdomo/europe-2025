@@ -1,4 +1,4 @@
-# Barcelona/Costa Brava - Excursión a Cadaqués
+# Costa Brava - Excursión a Cadaqués
 
 ## Resumen del Día
 * **Fecha**: 23/06/2025 (Lunes)
@@ -6,26 +6,28 @@
 * **Actividades principales**: Excursión a Cadaqués, Casa-Museo de Salvador Dalí
 
 ## Rutas y Traslados
-* **Cabrils → Cadaqués**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Cabrils&destination=Cadaques&travelmode=driving)
-  * 🚗 En coche: 2 horas 15 minutos (170 km aproximadamente)
-  * Recomendación: Salir temprano (08:00) para aprovechar el día, las carreteras tienen muchas curvas en el tramo final
+* **Llagostera → Cadaqués**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Carrer+Sant+Feliu,+28,+17240+Llagostera,+Girona&destination=Cadaques&travelmode=driving)
+  * 🚕 En coche: 1 hora 26 minutos (95 km por AP-7 y GI-614)
+  * **Ruta**: Llagostera → C-65 → AP-7 → Figueres → GI-614 → Cadaqués
+  * **Recomendación**: Salir temprano (08:00) para aprovechar el día, últimos 15 km por GI-614 con muchas curvas
 
-* **Cadaqués → Casa-Museo Salvador Dalí (Port Lligat)**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Cadaques&destination=Casa+Museo+Dali+Port+Lligat&travelmode=walking)
-  * 🚶 A pie: 20-25 minutos (1.6 km) desde el centro de Cadaqués
+* **Cadaqúés → Casa-Museo Salvador Dalí (Port Lligat)**: [Ruta a pie](https://www.google.com/maps/dir/?api=1&origin=Cadaques&destination=Casa+Museo+Dali+Port+Lligat&travelmode=walking)
+  * 🚶 A pie: 17 minutos (1.1 km) desde el centro de Cadaqúés
+  * Ruta: Riba Nemesi Llorens → Carrer de la Miranda → Av. de Salvador Dalí
   * Alternativa: 🚕 Taxi (5 minutos, aprox. 10€)
-  * Recomendación: El paseo es agradable con vistas al mar
+  * Recomendación: El paseo es agradable con vistas al mar, pero incluye algunas cuestas
 
-* **Regreso Cadaqués → Cabrils**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Cadaques&destination=Cabrils&travelmode=driving)
-  * 🚗 En coche: 2 horas 15 minutos
-  * Recomendación: Salir antes de las 18:00 para evitar tráfico y llegar a tiempo para la cena
+* **Regreso Cadaqués → Llagostera**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Cadaques&destination=Carrer+Sant+Feliu,+28,+17240+Llagostera,+Girona&travelmode=driving)
+  * 🚕 En coche: 1 hora 26 minutos (95 km, misma ruta de ida)
+  * **Recomendación**: Salir antes de las 17:30 para evitar tráfico y llegar a tiempo para las celebraciones de la noche de San Juan
 
 ## Itinerario Detallado
 ### Mañana (08:00-13:00)
-* **Salida de Cabrils**: 
-  * **Horario**: 08:00-10:15 (viaje en coche)
+* **Salida de Llagostera**: 
+  * **Horario**: 08:00-10:00 (viaje en coche)
   * **Tips**: 
     * Llevar algo para desayunar durante el viaje
-    * La última parte de la carretera tiene muchas curvas, considerar si alguien sufre de mareo
+    * Los últimos 15 km por GI-614 tienen muchas curvas, considerar si alguien sufre de mareo
 
 * **Llegada y recorrido por Cadaqués**:
   * **Horario**: 10:15-13:00

@@ -12,23 +12,29 @@
   * Recomendación: Llegar a la estación 30 minutos antes de la salida
 
 * **Barcelona Sants → Sagrada Familia**: [Ruta Metro](https://www.google.com/maps/dir/?api=1&origin=Barcelona+Sants&destination=Sagrada+Familia+Barcelona&travelmode=transit)
-  * 🚇 Metro L5 (azul): Sants Estació → Sagrada Familia (13 min, frecuencia cada 3-4 minutos, 2.40€)
+  * 🚶 Caminata: Estación de tren Barcelona Sants → Metro Sants Estació (4 min, 240 m)
+  * 🚇 Metro L5 (azul) hacia Vall d'Hebron: Sants Estació → Sagrada Familia (8 min, frecuencia cada 3-4 minutos, 2.40€)
   * 🚶 Caminando desde estación: 2 minutos (100 metros)
+  * Tiempo total: 14 minutos
   * Instrucciones de pago: Tarjeta T-Casual (11.35€ por 10 viajes) o pago contactless
   * Recomendación: Comprar T-Casual para todo el día
 
-* **Sagrada Familia → Parc Güell**: [Ruta Metro+Bus](https://www.google.com/maps/dir/?api=1&origin=Sagrada+Familia+Barcelona&destination=Park+G%C3%BCell&travelmode=transit)
-  * 🚇 Metro L5 (azul): Sagrada Familia → Vallcarca (15 min, 2.40€)
-  * 🚶 Caminando: 12 minutos por escaleras mecánicas y senderos
-  * Alternativa: 🚍 Bus Turístico (ruta azul) desde Sagrada Familia hasta Parc Güell (30€ día completo)
-  * Recomendación: Metro + caminata (opción más económica)
+* **Sagrada Familia → Parc Güell**: [Ruta Bus](https://www.google.com/maps/dir/?api=1&origin=Sagrada+Familia+Barcelona&destination=Park+G%C3%BCell&travelmode=transit)
+  * 🚶 Caminata: Sagrada Familia → Pg de Sant Joan - Provença (9 min, aproximadamente 650 m)
+  * 🚍 Bus V19 hacia Pl. Alfonso Comín (16 min, 9 paradas, 2.40€)
+  * 🚶 Caminata: Parada C N Catalunya → Entrada Park Güell (2 min, aproximadamente 170 m)
+  * Tiempo total: 27 minutos aproximadamente
+  * Alternativa: 🚕 Taxi directo (10-15 min, 10-15€)
+  * Recomendación: Bus V19 (opción más eficiente y económica)
 
-* **Parc Güell → Cabrils**: [Ruta combinada](https://www.google.com/maps/dir/?api=1&origin=Park+G%C3%BCell&destination=Cabrils+Barcelona&travelmode=transit)
-  * 🚇 Metro: Lesseps → Sants Estació (15 min)
-  * 🚆 Tren Rodalies R1: Barcelona Sants → Vilassar de Mar (35 min, 4.10€, frecuencia cada 30 min)
-  * 🚍 Bus C-12: Vilassar de Mar → Cabrils (15 min, 2.40€)
-  * Alternativa: 🚕 Taxi desde Parc Güell a Cabrils (45 min, aprox. 60-70€)
-  * Recomendación: Planificar con tiempo suficiente, última opción recomendada si es tarde
+* **Parc Güell → Llagostera (Alojamiento)**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Parc+Guell+Barcelona&destination=Carrer+Sant+Feliu,+28,+17240+Llagostera,+Girona&travelmode=driving)
+  * 🚕 En coche: 1 hora 20 minutos (97 km por AP-7)
+  * **Ruta**: Salida de Barcelona → B-20 → AP-7 dirección Girona → Salida 9A hacia Llagostera
+  * **Costo aproximado**: 15-20€ (peajes + gasolina)
+  * **Alternativa**: 
+    * Transporte público: Bus desde Estació del Nord hasta Llagostera (2 horas 30 minutos aprox.)
+    * Taxi: 120-150€ aproximadamente
+  * **Recomendación**: Al estar el alojamiento en Llagostera (provincia de Girona), es necesario usar transporte privado o coordinar recogida con el anfitrión. Salir con tiempo suficiente por la distancia.
 
 ## Itinerario Detallado
 ### Mañana (09:25-13:00)
@@ -56,6 +62,7 @@
 ### Tarde (15:00-19:00)
 * **Traslado y Visita al Parc Güell**:
   * **Horario**: Entrada reservada para las 17:00 (parque abierto de 9:30-19:30)
+  * **Traslado**: Salir de Sagrada Familia aproximadamente a las 16:15-16:20 para llegar con tiempo suficiente
   * **Duración recomendada**: 1.5-2 horas
   * **Coste**: Entrada ya comprada (entradas generales 10€)
   * **Enlaces**: [Web oficial 🌐](https://parkguell.barcelona) [Ubicación Maps 📍](https://www.google.com/maps/dir/?api=1&destination=Park+Guell+Barcelona&travelmode=walking)

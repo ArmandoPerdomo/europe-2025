@@ -1,4 +1,4 @@
-# Barcelona/Costa Brava - Playa y Excursión a Girona
+# Costa Brava - Playa y Excursión a Girona
 
 ## Resumen del Día
 * **Fecha**: 22/06/2025 (Domingo)
@@ -6,22 +6,22 @@
 * **Actividades principales**: Playa local, misa dominical, excursión a Girona
 
 ## Rutas y Traslados
-* **Cabrils → Playa de Cabrera**: [Ruta a pie/coche](https://www.google.com/maps/dir/?api=1&origin=Cabrils&destination=Platja+de+Cabrera&travelmode=driving)
-  * 🚶 A pie: 35-40 minutos (si la casa está en el centro de Cabrils)
-  * 🚗 En coche con amigos locales: 10 minutos
-  * Recomendación: Coordinar con amigos locales para traslado, llevar todo lo necesario para la playa
+* **Llagostera → Playa de Llorell**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Carrer+Sant+Feliu,+28,+17240+Llagostera,+Girona&destination=Platja+de+Llorell,+Tossa+de+Mar&travelmode=driving)
+  * 🚕 En coche: 30 minutos (23.4 km por GI-681)
+  * **Ruta**: Llagostera → Tossa de Mar → Platja de Llorell
+  * **Recomendación**: Salir temprano para aprovechar la mañana en la playa, llevar todo lo necesario (toallas, protector solar, agua)
 
-* **Cabrils → Girona**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Cabrils&destination=Girona+Cathedral&travelmode=driving)
-  * 🚗 En coche: 1 hora 15 minutos (110 km aproximadamente)
+* **Llagostera → Girona**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Carrer+Sant+Feliu,+28,+17240+Llagostera,+Girona&destination=Catedral+de+Girona&travelmode=driving)
+  * 🚕 En coche: 25 minutos (21 km por C-65)
+  * **Ruta**: Llagostera → C-65 → Girona
   * 🚍 Alternativa en transporte público: 
-    * Tren Rodalies R1: Vilassar de Mar → Barcelona Sants (30 min)
-    * Tren regional: Barcelona Sants → Girona (40 min - 1 hora)
-    * Total: 2-2.5 horas, 15-20€ por persona ida y vuelta
-  * Recomendación: Ir en coche con amigos locales si es posible, más flexible para explorar
+    * Bus Llagostera → Girona (aproximadamente 40 minutos)
+    * Consultar horarios locales, frecuencia limitada en domingo
+  * **Recomendación**: Ir en coche si es posible, ofrece más flexibilidad y es más rápido
 
-* **Regreso Girona → Cabrils**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Girona+Cathedral&destination=Cabrils&travelmode=driving)
-  * 🚗 En coche: 1 hora 15 minutos
-  * Último tren recomendado (si se usa transporte público): Girona → Barcelona Sants a las 20:30
+* **Regreso Girona → Llagostera**: [Ruta en coche](https://www.google.com/maps/dir/?api=1&origin=Girona+Cathedral&destination=Llagostera&travelmode=driving)
+  * 🚗 En coche: 25 minutos
+  * Último autobús recomendado (si se usa transporte público): Girona → Llagostera a las 20:30
   * Recomendación: Salir de Girona antes de las 20:00 para llegar a tiempo para la cena
 
 ## Itinerario Detallado
