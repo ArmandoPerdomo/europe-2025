@@ -1,4 +1,4 @@
-# Actividades Programadas - Bruselas
+# Actividades Programadas - Bruselas y Brujas
 
 ## Información General
 - **Fechas**: 27-30 junio 2025
@@ -15,26 +15,54 @@
 
 ## Actividades Confirmadas
 
-### Viernes 27/06 (Día de llegada)
+### Viernes 27/06 (Día de llegada - Bruselas)
 - **Mañana**: 
-  * Coordinar traslado desde el alojamiento hasta el aeropuerto
   * Vuelo Barcelona (BCN) - Bruselas Charleroi (CRL)
   * Salida: 09:35 - Llegada: 11:50
 - **Mediodía/Tarde**:
   * Traslado desde aeropuerto Charleroi al centro de Bruselas
-  * Check-in en alojamiento (Rue Marché aux Herbes 110)
+  * Check-in en alojamiento
   * Almuerzo ligero en el centro
 - **Tarde/Noche**:
-  * Primera exploración por el centro histórico
-  * Visita a Grand Place / Grote Markt
-  * Cena en restaurante local
+  * Visita a **Grand Place / Grote Markt**
+  * Paseo por **Galerías Saint Hubert**
+  * Cena en **Chez Leon** (especialidad: mejillones)
 
-### Sábado 28/06 (Día de turismo)
-- Free Tour Bruselas
-- Visita al Museo de la Cerveza
+### Sábado 28/06 (Día de turismo - Bruselas)
+- **Mañana**:
+  * Visita al **Manneken Pis** (estatua original)
+  * Visita a **Jeanneke Pis** (versión femenina)
+  * Visita a **Zinneke Pis** (versión perro)
+  * **Choco Story Brussels** (museo del chocolate)
+- **Mediodía**:
+  * Almuerzo en **Fritland** (probar la metralleta - sandwich típico)
+  * Gofres en **Le Roi de la Gaufre**
+- **Tarde**:
+  * **Plaza de la Bolsa**
+  * **Catedral de Bruselas** (visita a la parte alta)
+  * Recorrido por: **Parque de Bruselas**, **Palacio Real**, **Plaza Real**
+  * **Notre Dame du Sablon**
+  * **Palacio de Justicia**
+  * **Mirador de Mont des Arts**
+- **Noche**:
+  * Degustación de cervezas belgas (bar por definir)
 
-### Domingo 29/06 (Excursión)
-- Excursión a Brujas (día completo)
+### Domingo 29/06 (Excursión a Brujas)
+- **Mañana**:
+  * Traslado temprano a Brujas
+  * **Grote Markt** (Plaza Mayor)
+  * **Basílica de la Santa Sangre** (visita imprescindible)
+- **Mediodía**:
+  * Almuerzo en **Chez Albert**
+  * Patatas fritas en **The Potato Bar**
+- **Tarde**:
+  * **Paseo por los canales** (tour en barco)
+  * **Rosary Quay** (muelle del rosario - punto fotográfico)
+  * **Puente Bonifacio**
+  * **Begijnhof** (Beguinaje de Brujas)
+- **Noche**:
+  * Paseo nocturno por Brujas iluminada
+  * Regreso a Bruselas
 
 ### Lunes 30/06 (Día de salida)
 - **Mañana**: Tiempo libre en Bruselas
@@ -42,28 +70,29 @@
   * Preparación para la salida
   * Traslado a la estación Brussels-Midi
 - **Tren a Ámsterdam**:
-  * Eurocity Direct (9551) operado por Eurocity Direct
-  * Salida: 13:49 (Brussels-Midi)
-  * Llegada: 15:55 (Amsterdam Zuid)
-  * Duración: 2h 06min
+  * **Tren**: Eurocity Direct 9551
+  * **Salida**: 13:49 (Brussels-Midi)
+  * **Llegada**: 15:55 (Amsterdam Zuid)
+  * **Duración**: 2h 06min
 
-## Restaurantes/Cafés Visitados
-- *Por completar conforme se planifique*
+## Gastronomía a Probar
+### Bruselas
+- **Metralleta** de Fritland (sándwich con salchichas y patatas fritas)
+- **Gofres belgas** en Le Roi de la Gaufre
+- **Mejillones con patatas** en Chez Leon
+- **Chocolate belga** (varios)
+- **Cervezas belgas** (Trappist, Lambic, Gueuze, Kriek)
 
-## Requisitos Especiales
-- Degustación de chocolate belga
-- Visita a Grand Place / Grote Markt
-- Experiencia con gofres belgas
+### Brujas
+- **Patatas fritas** en The Potato Bar
+- **Especialidades locales** en Chez Albert
+- **Gofres de Brujas** (más crujientes que los de Bruselas)
 
 ## Notas Adicionales
-- El vuelo del 27/06 llega al aeropuerto de Charleroi, que está a aproximadamente 60 km del centro de Bruselas
-- Opciones de traslado desde Charleroi: shuttle bus (13€), tren o taxi
-- El día 29/06 es excursión a Brujas (día completo)
-- **Tren a Ámsterdam**:
-  * **Tren**: Eurocity Direct (9551)
-  * **Fecha**: Lunes, 30 de junio 2025
-  * **Ruta**: Brussels-Midi - Amsterdam Zuid
-  * **Horario**: Salida 13:49 - Llegada 15:55
-  * **Número de reserva**: DVJCHQS
-  * **Precio**: $63.39 (2 pasajeros, incluye tasas)
+- El 27/06 es día de llegada, planificar actividades ligeras
+- El 29/06 es día completo de excursión a Brujas
+- El 30/06 es día de salida hacia Ámsterdam, llegar 45 min antes a la estación de tren
+- Revisar horarios de últimos trenes Brujas-Bruselas para el domingo
+- Llevar calzado cómodo para el paseo por Brujas
+- No olvidar paraguas/impermeable (alta probabilidad de lluvias)
 - Tener en cuenta que el aeropuerto de Charleroi está más lejos del centro que el aeropuerto principal de Bruselas (Zaventem)
