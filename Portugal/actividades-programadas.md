@@ -9,8 +9,10 @@ nav_order: 100
 ## Información General
 - **Fechas**: 23 julio - 3 agosto 2025
 - **Alojamiento**: 
-  * **Dirección**: *Por confirmar*
+  * **Tipo**: Casa
+  * **Dirección**: Travessa dos Glórios, 110 Coimbrâo, Leiria, Portugal 2425-452
   * **Estancia**: Check-in 23/07/2025 - Check-out 03/08/2025
+  * **Anfitriones**: Hugh Buttenshaw y Anne (+351 934719277)
 - **Clima esperado**: Cálido, temperaturas entre 20-30°C
 
 ## Actividades Confirmadas
